@@ -1,0 +1,15 @@
+{
+  "name": "com.unity.messenger",
+  "displayName": "Messenger",
+  "version": "1.0.7-preview",
+  "unity": "2018.3",
+  "description": "Messenger提供便利的交流方式，方便开发者随时与其他用户讨论开发中遇到的问题，也可以选择加入自己感兴趣的群组，帮助其他开发者，分享自己的经验或有趣的想法。",
+  "dependencies": {
+    "com.unity.uiwidgets": "1.5.4-preview.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.cds.internal.unity3d.com:unity/com.unity.messenger.git",
+    "revision": "014b000502b5d6e5bec029b59a1781a226908698"
+  }
+}

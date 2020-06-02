@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e005bfe23affa476ab72484c13aed45f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: .PingFang SC
+  fontNames:
+  - .PingFang SC
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0bdcc919b6ed447d283ee914b7795859, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

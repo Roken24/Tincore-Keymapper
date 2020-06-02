@@ -1,0 +1,11 @@
+{
+    "name": "Unity.Messenger.Editor",
+    "references": [
+      "Unity.UIWidgets",
+      "Unity.InternalAPIEditorBridge.023"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

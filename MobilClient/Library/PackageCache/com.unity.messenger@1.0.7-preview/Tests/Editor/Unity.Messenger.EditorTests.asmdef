@@ -1,0 +1,13 @@
+{
+    "name": "Unity.Messenger.EditorTests",
+    "references": [
+        "Unity.Messenger.Editor"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

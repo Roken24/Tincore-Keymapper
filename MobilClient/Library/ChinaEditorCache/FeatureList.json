@@ -1,0 +1,69 @@
+{
+    "featureList": [
+        {
+            "id":"1",
+            "buildIn":false,
+            "needPro":false,
+            "isOpend":true,
+            "menuItemOfSetting":"Window/Package Manager",
+            "featureName":"SenseAR",
+            "featureDescribe":"商汤科技AR解决方案",
+            "featureShortDoc":"SenseAR为开发者提供实时跟踪与建图、尺度估计、多平面检测、光照估计、FaceMesh、图像识别与跟踪等功能。了解更多信息请访问SenseAR开发者官网：openar.sensetime.com \n具体功能包括：\n（1）实时跟踪与建图；\n（2）尺度估计；\n（3）多平面检测；\n（4）光照估计；\n（5）Face Mesh；\n（6）图像识别与跟踪。",
+            "remoteFeatureImage":"2018.4/ChinaFeature.ShangTangAR.png",
+            "documentURL":"https://openar.sensetime.com",
+            "supportedTargets":"Android"
+        },
+        {  
+            "id":"2",
+            "buildIn":false,
+            "needPro":false,
+            "isOpend":false,
+            "menuItemOfSetting":"Window/Messenger",
+            "featureName":"Messenger",
+            "featureDescribe":"随时与其他开发者沟通交流",
+            "featureShortDoc":"Messenger提供便利的交流方式，方便开发者随时与其他用户讨论开发中遇到的问题，也可以选择加入自己感兴趣的群组，帮助其他开发者，分享自己的经验或有趣的想法。",
+            "remoteFeatureImage":"2018.4/ChinaFeature.Messenger.png",
+            "documentURL":"",
+            "supportedTargets":"Editor"
+        },
+        {
+            "id":"3",
+            "buildIn":false,
+            "needPro":false,
+            "isOpend":true,
+            "menuItemOfSetting":"",
+            "featureName":"Anti-Cheat Expert",
+            "featureDescribe":"代码与数据加密工具",
+            "featureShortDoc":"由Anti-Cheat Expert团队与Unity中国技术支持团队联合开发。\n它针对Unity-Mono、Unity-IL2CPP运行时提供加密保护服务。同时提供文件级、方法级、指令级等多种等级的加密方式。\n\n使用方法：\n通过Project Settings > Player > Security Settings，将Enable Security Build启用，即可在编译时自动接入安全方案。\n\nAnti-Cheat Expert团队是全球领先游戏安全方案与服务提供者。\n致力于为端游、手游、主机等全平台游戏中的防破解、反作弊等各类游戏安全问题，提供全面和专业的解决方案。",
+            "remoteFeatureImage":"2018.4/ChinaFeature.Tencent.png",
+            "documentURL":"",
+            "supportedTargets":"Android,iOS"
+        },
+        {
+            "id":"4",
+            "buildIn":false,
+            "needPro":false,
+            "isOpend":true,
+            "menuItemOfSetting":"",
+            "featureName":"Unity 云构建",
+            "featureDescribe":"云端构建项目，加速产品开发",
+            "featureShortDoc":"您可以在Editor中将项目从本地上传至云端，或提供项目仓库信息，通过微信小程序监控云端构建进度，构建完成后分发包体给其他用户。",
+            "remoteFeatureImage":"2018.4/ChinaFeature.CloudBuild.png",
+            "documentURL":"https://unity.cn/ccb",
+            "supportedTargets":"Android,Mac Standalone,PC Standalone,WebGL"
+        },
+        {
+            "id":"5",
+            "buildIn":false,
+            "needPro":false,
+            "isOpend":true,
+            "menuItemOfSetting":"",
+            "featureName":"Crash Report",
+            "featureDescribe":"崩溃与异常收集工具",
+            "featureShortDoc":"崩溃与异常收集工具可以收集程序在崩溃时的异常数据，以此来改进和优化您的程序。请在Editor->Services->Cloud Diagnostics页面查看相关配置。\n收集的崩溃报告可以在https://developer.cloud.unity.cn/diagnostics/orgs/<org_name>/projects/<project_name>/crashes中查看。",
+            "remoteFeatureImage":"2018.4/ChinaFeature.CrashReporter.png",
+            "documentURL":"https://developer.cloud.unity.cn",
+            "supportedTargets":"Android,iOS,Linux,Mac,PC,WebGL,Windows 8 Universal,Windows 10 Universal"
+        }
+    ]
+}

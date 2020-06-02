@@ -1,0 +1,7 @@
+D:\C++课程\Sever\Sever\bin\Debug\Sever.exe.config
+D:\C++课程\Sever\Sever\bin\Debug\Sever.exe
+D:\C++课程\Sever\Sever\bin\Debug\Sever.pdb
+D:\C++课程\Sever\Sever\obj\Debug\Sever.csproj.CoreCompileInputs.cache
+D:\C++课程\Sever\Sever\obj\Debug\Sever.exe
+D:\C++课程\Sever\Sever\obj\Debug\Sever.pdb
+D:\C++课程\Sever\Sever\obj\Debug\Sever.csprojAssemblyReference.cache
